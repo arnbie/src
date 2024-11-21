@@ -23,7 +23,7 @@ const houses = [
   {
     id: 2,
   
-    title: 'Apartamento en el centro',
+    title: 'Apartamento en el centr',
     description: 'Moderno apartamento en el corazón de la ciudad.',
     price: 200000,
     location: 'Madrid',
